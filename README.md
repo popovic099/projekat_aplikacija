@@ -13,7 +13,7 @@ U Windows CMD (ili PowerShell) pokreni:
 "C:\xampp\php\php.exe" -S localhost:8000 -t "C:\PUNA_LOKACIJA\Aplikacija_Za_Pracenje_Licnih_Finansija\public"
 ```
 
-> Zameni `C:\PUNA_LOKACIJA\Aplikacija_Za_Pracenje_Licnih_Finansija\public` stvarnom putanjom do projekta.
+> Zameniti `C:\PUNA_LOKACIJA\Aplikacija_Za_Pracenje_Licnih_Finansija\public` punom putanjom do projekta
 
 ---
 
@@ -34,4 +34,4 @@ Ovo briše/kreira bazu **finance\_tracker** i ubacuje demo podatke.
 * Email: `marko@example.com`
 * Lozinka: `test123`
 
-Možete se registrovati novim nalogom preko stranice za registraciju.
+Možete se registrovati novim nalogom preko stranice za registraciju
