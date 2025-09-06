@@ -33,6 +33,3 @@ Ovo briše i kreira bazu **finance\_tracker** i ubacuje demo podatke.
 
 * Email: `marko@example.com`
 * Lozinka: `test123`
-
-
-Možete se registrovati novim nalogom preko stranice za registraciju
